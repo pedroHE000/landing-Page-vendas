@@ -1,0 +1,11 @@
+img{
+    width: 150px; /* Largura desejada */
+      height: auto;
+
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Define a altura da div como 100% da altura da tela */
+  }
